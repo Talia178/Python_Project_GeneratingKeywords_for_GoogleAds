@@ -7,10 +7,8 @@ The most important task in structuring a search engine marketing account is mapp
 
 - Python Programming: The project showcases my intermediate Python skills, as I utilized Python to efficiently create keywords for search campaigns.
 
-- Data Manipulation with Pandas: I utilized the Pandas library to handle and manipulate data in a DataFrame. I performed operations such as creating DataFrames from lists, renaming columns, and appending DataFrames.
+- Data Manipulation with Pandas: Utilizing the Pandas library to handle and manipulate data in a DataFrame. Performing operations such as creating DataFrames from lists, renaming columns, and appending DataFrames.
 
-- Looping and List Manipulation: I used loops to iterate through product names and words, generating combinations and appending them to the keywords_list.
+- Looping and List Manipulation: Using loops to iterate through product names and words, generating combinations and appending them to the keywords_list.
 
-- File Handling: I saved the final keyword data to a CSV file using the to_csv function.
-
-- Data Analysis: I explored the data and created a summary of the campaign work by grouping and counting the keywords for each ad group and criterion type.
+- Data Analysis: Exploring the data and creating a summary of the campaign work by grouping and counting the keywords for each ad group and criterion type.
